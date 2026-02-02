@@ -1,4 +1,4 @@
-# Statistik Padi Petani Sidoarjo - Data Analytics Dashboard
+# Statistik Padi Petani Sidoarjo - Data Analytics Dashboard Daan Visualisasi Grafik
 
 Proyek analisis data pertanian padi di Sidoarjo dengan visualisasi grafik yang komprehensif.
 
@@ -78,3 +78,4 @@ Proyek ini dikembangkan untuk membantu petani dan pemangku kepentingan di Sidoar
 ---
 
 *Dikembangkan dengan ❤️ oleh warga Sidoarjo untuk kemajuan pertanian daerah*
+
