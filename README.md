@@ -16,7 +16,7 @@ Proyek ini dikembangkan oleh warga Sidoarjo:
 
 Proyek ini menyediakan analisis mendalam terhadap data pertanian padi di 16 kecamatan Sidoarjo dengan 36 jenis grafik yang berbeda, termasuk:
 
-- Tren hasil panen dari tahun 2010-2023
+- Tren hasil panen dari tahun 2010
 - Analisis produksi per kecamatan
 - Korelasi antara curah hujan, suhu, dan hasil panen
 - Distribusi penggunaan pupuk dan pestisida
@@ -78,4 +78,5 @@ Proyek ini dikembangkan untuk membantu petani dan pemangku kepentingan di Sidoar
 ---
 
 *Dikembangkan dengan ❤️ oleh warga Sidoarjo untuk kemajuan pertanian daerah*
+
 
