@@ -29,7 +29,7 @@ Proyek ini menyediakan analisis mendalam terhadap data pertanian padi di 16 keca
 - **Visualisasi Interaktif**: Grafik Plotly untuk eksplorasi data
 - **Ekspor PNG**: Semua grafik tersimpan dalam format gambar
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 1. **Clone repository:**
    ```bash
@@ -78,5 +78,6 @@ Proyek ini dikembangkan untuk membantu petani dan pemangku kepentingan di Sidoar
 ---
 
 *Dikembangkan dengan ❤️ oleh warga Sidoarjo untuk kemajuan pertanian daerah*
+
 
 
